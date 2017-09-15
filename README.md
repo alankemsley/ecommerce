@@ -9,13 +9,13 @@
 
 ### Screenshots:
 1. Initial inventory levels
-![](images/1-beginningTable.png?raw=true)
+![](screenshots/1-beginningTable.png?raw=true)
 
 1. Purchase request
-![](images/2-purchaseRequest.png?raw=true)
+![](screenshots/2-purchaseRequest.png?raw=true)
 
 1. Ending inventory levels
-![](images/3-endingTable.png?raw=true)
+![](screenshots/3-endingTable.png?raw=true)
 
 1. Second purchase attempt
-![](images/4-purchaseAttempt.png?raw=true)
+![](screenshots/4-purchaseAttempt.png?raw=true)
