@@ -1,0 +1,23 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "iStoreCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alankemsley/ecommerce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alankemsley/ecommerce/issues"
+  },
+  "homepage": "https://github.com/alankemsley/ecommerce#readme",
+  "dependencies": {
+    "inquirer": "^3.2.3",
+    "mysql": "^2.14.1"
+  }
+}
