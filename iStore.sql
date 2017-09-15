@@ -4,11 +4,11 @@ USE iStore;
 
 CREATE TABLE products (
 	item_id INT AUTO_INCREMENT NOT NULL,
-    product_name VARCHAR(50) NOT NULL,
-    department_name VARCHAR(50),
-    price INT NOT NULL,
-    stock_quantity INT,
-    PRIMARY KEY (item_id)
+  product_name VARCHAR(50) NOT NULL,
+  department_name VARCHAR(50),
+  price INT NOT NULL,
+  stock_quantity INT,
+  PRIMARY KEY (item_id)
 );
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
