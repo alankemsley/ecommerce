@@ -2,7 +2,7 @@
 
 ## A Command Line Interface application for online shopping.
 
-This program was built with Node and utilizes a MySQL database.
+This program was built with Node.js with the Inquirer package, and utilizes a MySQL database.
 
 ### Instructions:
 
