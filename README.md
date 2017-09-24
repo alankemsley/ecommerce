@@ -1,4 +1,8 @@
-## Sample eCommerce Command Line program
+# eCommerce
+
+## A Command Line Interface application for online shopping.
+
+This program was built with Node and utilizes a MySQL database.
 
 ### Instructions:
 
